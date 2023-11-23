@@ -1,6 +1,9 @@
-### Hi there 👋
+
+<h1>Hi, I'm dEthan3!</h1>
+
 
 <!--
+### Hi there 👋
 **d-ethan3/d-ethan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
